@@ -1,0 +1,37 @@
+
+.producto{
+    padding: 10px 5px 10px 6px;
+    margin: 5px;
+    width: 300px;
+    height: 400px;
+    margin-left: 10px;
+    border: black 2px solid;
+}
+
+.descripcion{
+    padding: 10px 5px 10px 6px;
+    margin: auto;
+    width: 600px;
+    height: 800px;
+    margin-left: 10px;
+    border: black 2px solid;
+    
+    
+}
+
+.producto1{
+    padding: 10px 5px 10px 6px;
+    margin: 5px;
+    width: 300px;
+    height: 400px;
+    margin-left: 200px;
+    border: black 2px solid;
+}
+.producto2{
+    padding: 10px 5px 10px 6px;  
+    margin: 5px;
+    width: 300px;
+    height: 400px;
+    margin-left: 200px;
+    border: black 2px solid;
+}
